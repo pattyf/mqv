@@ -1,2 +1,2 @@
-# ucsc_misc
+# ucsc MQ stuff
 Misc for work with UCSC
